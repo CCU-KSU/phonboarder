@@ -59,3 +59,21 @@ npm run dev
 
 
 Open http://localhost:3000
+
+
+---
+
+## 🧑‍🤝‍🧑 Collaboration
+
+We welcome contributions!
+Here’s how you can help:
+
+Fork the repository
+
+Create a feature branch: git checkout -b feature/your-feature-name
+
+Commit your changes: git commit -m "Add your feature"
+
+Push to the branch: git push origin feature/your-feature-name
+
+Open a Pull Request
