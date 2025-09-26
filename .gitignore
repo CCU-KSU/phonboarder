@@ -1,12 +1,26 @@
 # Node
-node_modules/
-npm-debug.log
-.env
+client/node_modules/
+server/node_module
 
 # Build
-dist/
-build/
+# Build output
+client/dist/
+server/dist/
 
-# IDE
-.vscode/
+# Environment files
+*.env
+*.env.*
+
+# Logs
+*.log
+
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Dependency lock files (optional, if you don't want to track them)
+client/package-lock.json
+server/package-lock.json
